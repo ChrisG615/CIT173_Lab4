@@ -1,0 +1,5 @@
+Filesystem               Size  Used Avail Use% Mounted on
+/dev/mapper/fedora-root   17G  6.8G  9.0G  44% /
+/dev/sda1                976M  146M  764M  16% /boot
+/dev/sdb1                119M  1.6M  109M   2% /mnt/data
+/dev/sdb2                363M  2.1M  338M   1% /mnt/backup

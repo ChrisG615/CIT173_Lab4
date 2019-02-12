@@ -1,0 +1,4 @@
+/dev/mapper/fedora-root on / type ext4 (rw,relatime,seclabel)
+/dev/sda1 on /boot type ext4 (rw,relatime,seclabel)
+/dev/sdb1 on /mnt/data type ext4 (rw,relatime,seclabel)
+/dev/sdb2 on /mnt/backup type ext4 (rw,relatime,seclabel)
